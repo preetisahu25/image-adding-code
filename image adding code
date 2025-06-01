@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Images</title>
+</head>
+<body>
+    <h1>Images of flower</h1>
+    <h2>Images of Lotus</h2>
+    <img src="https://media.istockphoto.com/id/1367918374/photo/lotus-flower-in-water-with-sunshine.jpg?s=612x612&w=0&k=20&c=0lIXd0h-WW3m69Jo2mGQf8xSGLTi-fwfGsBhLbddLWU="alt="lotus image" height="123">   
+</body>
+</html>
